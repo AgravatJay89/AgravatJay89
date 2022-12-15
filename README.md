@@ -1,8 +1,8 @@
 ![CodingKiraGIF](https://user-images.githubusercontent.com/102980012/207538063-269bf95f-a3c2-47b5-8980-abcdeb40db95.gif)
 
-- <h1>Hi👋, I'm  Jay Agravat</h1>
+- <h1 align="center">Hi👋, I'm  Jay Agravat</h1>
 
-- <h3 align="center">EVERY BOSS STARTS AS A WORKER ✨🎯;</h3>
+ <h2 align="center">EVERY BOSS STARTS AS A WORKER ✨🎯;</h2>
 
 <p align="left"> <a href="https://twitter.com/_jay_agravat_" target="blank"><img src="https://img.shields.io/twitter/follow/_jay_agravat_?logo=twitter&style=for-the-badge" alt="_jay_agravat_" /></a> </p>
 
