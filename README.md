@@ -2,9 +2,9 @@
 
 - <h1>Hi👋, I'm  Jay Agravat</h1>
 
-<p align="left"> <a href="https://twitter.com/_jay_agravat_" target="blank"><img src="https://img.shields.io/twitter/follow/_jay_agravat_?logo=twitter&style=for-the-badge" alt="_jay_agravat_" /></a> </p>
+- <h3 align="center">EVERY BOSS STARTS AS A WORKER ✨🎯;</h3>
 
--<h3>EVERY BOSS STARTS AS A WORKER ✨🎯;</h3>
+<p align="left"> <a href="https://twitter.com/_jay_agravat_" target="blank"><img src="https://img.shields.io/twitter/follow/_jay_agravat_?logo=twitter&style=for-the-badge" alt="_jay_agravat_" /></a> </p>
 
 
 - 🌱 I’m currently learning B.TECH(computer science and engineering).
