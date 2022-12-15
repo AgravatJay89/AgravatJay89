@@ -2,7 +2,7 @@
 
 - <h1>Hi👋, I'm  Jay Agravat</h1>
 
--<h3>EVERY BOSS IS START AS A WORKER ✨🎯;</h3>
+-<h3>EVERY BOSS STARTS AS A WORKER ✨🎯;</h3>
 
 
 - 🌱 I’m currently learning B.TECH(computer science and engineering).
