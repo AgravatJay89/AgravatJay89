@@ -1,8 +1,9 @@
-![CodingKiraGIF](https://user-images.githubusercontent.com/102980012/207538063-269bf95f-a3c2-47b5-8980-abcdeb40db95.gif)
+<img alt="coding" width="100%" height="400" alt="coding" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 - <h1 align="center">Hi👋, I'm  Jay Agravat</h1>
 
  <h2 align="center">EVERY BOSS STARTS AS A WORKER ✨🎯;</h2>
+ <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 
 <p align="left"> <a href="https://twitter.com/_jay_agravat_" target="blank"><img src="https://img.shields.io/twitter/follow/_jay_agravat_?logo=twitter&style=for-the-badge" alt="_jay_agravat_" /></a> </p>
 
